@@ -3,7 +3,7 @@
 
 A simple and visually appealing password generator built using **HTML**, **CSS**, and **JavaScript**. This tool allows users to generate strong and secure passwords based on customizable criteria.
 
-![Password Generator Screenshot](./Screenshot_3-1-2025_16613_127.0.0.1.jpeg)
+![Password Generator Screenshot](./Password%20Generator.jpeg)
 
 ## Features
 
